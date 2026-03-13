@@ -1,10 +1,19 @@
-## Hi there 👋
-### Estudiante en Informatica para la Gestion Social(UBV)|tech Enthusiast
+#¡Hola Soy Yilibeth Ortiz 👋
 
-#Actualmete enfocada en 
--☕**Java:** Dominando La Programacion Orientada 
-a Odjetos
-Y Muy Pronto Otros Lenguaje de Programacion ✨
+##Futura Ingeniera en Informatica (UBV)
+Estoy en mi camino dominando los funadamentos de 
+la programación actualmente mi enfoque principal 
+es **Java** Construyendo mi portafolio paso a paso.
+--
+## 🛠 Mis habilidades & aprendizaje 
+-☕**Java:** (en proceso) Dominando la Logica y POO.
+- 🌐 **Desarrollo Web:** Interes en crear soliciones digitales útiles
+
+## 📫Contacta Conmigo
+-📧[ortizyilibeth60@gmail.com] 
+
+La disciplina vence al talento cuando el talento 
+no se diciplina ✨
 
 <!--
 **YilibethOrtiz/YilibethOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
