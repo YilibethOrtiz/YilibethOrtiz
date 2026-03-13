@@ -1,4 +1,10 @@
 ## Hi there 👋
+### Estudiante en Informatica para la Gestion Social(UBV)|tech Enthusiast
+
+#Actualmete enfocada en 
+-☕**Java:** Dominando La Programacion Orientada 
+a Odjetos
+Y Muy Pronto Otros Lenguaje de Programacion ✨
 
 <!--
 **YilibethOrtiz/YilibethOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
