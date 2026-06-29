@@ -26,10 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YilibethOrtiz&theme=tokyonight" alt="Yilibeth's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YilibethOrtiz&theme=tokyonight" alt="Yilibeth's Streak Stats" />
-</p>
-
 > 💡 **Nota:** Mis estadísticas principales e historial de código se actualizan automáticamente en la sección de **"Repositorios"** y en mi panel de contribuciones diario aquí abajo.
 
 ---
