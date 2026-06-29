@@ -3,7 +3,7 @@
 **Futura Ingeniera en Informática (UBV)** | Maracaibo, Venezuela 🇻🇪
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YilibethOrtiz&show_icons=true&theme=tokyonight" alt="Yilibeth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YilibethOrtiz&show_icons=true&theme=dark" alt="Estadísticas de Yilibeth" />
 </div>
 
 ---
