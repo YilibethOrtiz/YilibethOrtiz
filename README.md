@@ -28,6 +28,10 @@
 
 > 💡 **Nota:** Mis estadísticas principales e historial de código se actualizan automáticamente en la sección de **"Repositorios"** y en mi panel de contribuciones diario aquí abajo.
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
 ---
 
 ## 📫 Conecta conmigo
