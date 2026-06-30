@@ -11,7 +11,7 @@
 *   ✨ Mi visión es transformar ideas en código eficiente, documentado y escalable que resuelva problemas reales.
 *   *«La disciplina vence al talento cuando el talento no se disciplina»*
 
-## 🛠️ Tecnologías en proceso de aprendizaje)
+## 🛠️ Tecnologías en proceso de aprendizaje.
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -26,7 +26,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YilibethOrtiz&theme=tokyonight" alt="Yilibeth's Streak Stats" />
 </p>
 
-> 💡 **Nota:** Mis estadísticas principales e historial de código se actualizan automáticamente en la sección de **"Repositorios"** y en mi panel de contribuciones diario aquí abajo.
+<p align="center">
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YilibethOrtiz&theme=rose_pine" />
+</p>
 
 ---
 
