@@ -1,6 +1,6 @@
 # ¡Hola! Soy Yilibeth Ortiz 👋
 
-**Futura Ingeniera en Informática (UBV) & Licenciada en Matemática Pura** | Maracaibo, Venezuela 
+**Futura Licenciada en Informática (UBV) & en Matemática Pura** | Maracaibo, Venezuela 
 ---
 
 ## 👩‍💻 Sobre Mí
