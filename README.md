@@ -23,6 +23,7 @@
 [![Conjuntos](https://img.shields.io/badge/Conjuntos-000000?style=for-the-badge&logo=databricks&logoColor=FF69B4)](https://es.wikipedia.org/wiki/Teoría_de_conjuntos)
 
 ---
+##  La disciplina vence al talento, si el talento no se disciplina.
 
 ## 📫 Conecta conmigo
 
