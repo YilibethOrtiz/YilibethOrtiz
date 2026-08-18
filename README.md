@@ -1,36 +1,26 @@
 # ¡Hola! Soy Yilibeth Ortiz 👋
 
-**Futura Licenciada en Informática (UBV) & en Matemática Pura** | Maracaibo, Venezuela 
+**Computer Science & Pure Mathematics Double Major | Aspiring IA & Data Science Researcher |Venezuela**
 ---
 
-## 👩‍💻 Sobre Mí
+## 🔭💻Sobre Mí/ About Me
 
-*   🚀 Soy una estudiante de Ingeniería en Informática en la UBV apasionada por construir soluciones tecnológicas.
-*   🧠 Actualmente, estoy dominando la **Lógica de Programación** y los fundamentos de la **Programación Orientada a Objetos (POO)**.
-*   💻 Mi enfoque principal es **Java**.
-*   ✨ Mi visión es transformar ideas en código eficiente, documentado y escalable que resuelva problemas reales.
-*   *«La disciplina vence al talento cuando el talento no se disciplina»*
-  ---
-## 🛠️ Tecnologías en proceso de aprendizaje.
+* **🎖️Doble Perfil Académico de Alto Rentidmiento:** Actualmente curso el 1er semestre de Informática Y me preparo  para iniciar la Licenciatura en Matemáticas Puras.
+* **💡Mi Enfoque:** No solo programo ; me apasiona entender los fundamentos matemáticos subyacentes. Mi objetivo es contectar el Álgebra Lineal y la probabilidad con la optimización de algoritmos de **Inteligencia Artificial** y **Ciberseguridad**.
+* **🛠️En proceso de de dominio:** Actualmente consolidando Lógica de Programación POO con java, aplicando rigor científico en cada proyecto
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
----
+## Lenguajes y Herramientas
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF69B4)](https://www.java.com/)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF69B4)](https://git-scm.com/)
 
-## 📊 Estadísticas de GitHub
+## En Exploración Activa 
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF69B4)](https://www.python.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=FF69B4)](https://code.visualstudio.com/)
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF69B4)](https://www.postgresql.org/)
+## Fundamentos Matemáticos
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YilibethOrtiz&theme=tokyonight" alt="Yilibeth's Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YilibethOrtiz&theme=rose_pine" />
-</p>
+[![Lógica](https://img.shields.io/badge/Lógica-000000?style=for-the-badge&logo=probot&logoColor=FF69B4)](https://es.wikipedia.org/wiki/Lógica)
+[![Conjuntos](https://img.shields.io/badge/Conjuntos-000000?style=for-the-badge&logo=databricks&logoColor=FF69B4)](https://es.wikipedia.org/wiki/Teoría_de_conjuntos)
 
 ---
 
