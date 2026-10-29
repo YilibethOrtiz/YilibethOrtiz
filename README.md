@@ -10,6 +10,7 @@
 * **🛠️En proceso de de dominio:** Actualmente consolidando Lógica de Programación POO con java, aplicando rigor científico en cada proyecto
 
 ## Lenguajes y Herramientas
+[![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=FF69B4)](https://www.java.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF69B4)](https://git-scm.com/)
 
@@ -27,4 +28,4 @@
 
 ## 📫 Conecta conmigo
 
--   📧 Correo electrónico: [ortizyililbeth60@gmail.com](mailto:ortizyililbeth60@gmail.com)
+-   📧 Correo electrónico: [ortizyililbeth58@gmail.com](mailto:ortiyilibeth58@gmail.com)
